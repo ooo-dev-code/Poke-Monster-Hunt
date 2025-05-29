@@ -1,0 +1,1 @@
+player_monster_list = ['Sparchu', 'Cleaf', 'Jacana', 'Gulfin', 'Pou
