@@ -23,7 +23,7 @@ class Fight:
         self.all_sprites = pygame.sprite.Group()
 
         # data 
-        self.player_monster_list = ['Larvea']
+        self.player_monster_list = ['Larvea', "Ivieron", 'Plumette', 'Pluma', 'Sparchu', 'Cindrill']
         
         if self.last_team:
             self.new_player_monster_list = []
